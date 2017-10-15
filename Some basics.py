@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed May 24 20:55:08 2017
-
-@author: Sai_Chedemala
-"""
 
 mydict = {'a': (1,4,5), 'b': 2, 'c': 3} 
 print("A value: %d" % mydict['a'])
